@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WisdomleafAssignment</string>
+    <string name="processing_request">Processing your request, please wait</string>
+    <string name="unable_to_process">Unable to process your request. Please try after sometime.</string>
+</resources>
